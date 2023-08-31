@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 3f309ae5f1f01be4ca4806830017670c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 9
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e14551430c528b4caafb3ae479b5e05
+      internalID: -946110929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 389
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df04119233bc6640b5737ac58f373c4
+      internalID: -321827912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 352
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5f2929cb20e34b96feb3b0f4fa728
+      internalID: 845636054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 294
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434eb57d3a973a440aa988c5c495e4af
+      internalID: 1249893107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd9cb3947b3b64b891a2e00c0c2174
+      internalID: -625993005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51144d5c46d78047b2161605cf7c523
+      internalID: -1414230408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 294
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191955972030a0a4f96d421dd5849b6a
+      internalID: -672775551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 74
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b1599429095e4facf0b99997c1e9a
+      internalID: 1235436250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 12
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a316b1167938cb4f918120b38b63591
+      internalID: 485939517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78b418e5e03e3645a6278c146a09138
+      internalID: -1473600977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e14a6f73acc9d4894f1d71c02f8968
+      internalID: 1499028141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556d427d48947df4b95899180f64311e
+      internalID: -2068484558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e0aed4e1d01143bdeb05e5a2b7857
+      internalID: -1761258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eec5de99c05e44caef0c879683db08
+      internalID: 819839643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496133c62553104ea3c0e3bfdabf0d0
+      internalID: -752733548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e973327c7bd486240b333280aedc1d40
+      internalID: 894116986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77d169d4bbbf143b1ad11b3174b71a
+      internalID: -367541149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479a3517f1ed5746a239f635160c284
+      internalID: -1598842005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515ca464b64f60b4c9193f20bb2a3877
+      internalID: -1900493605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 324
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886a288e3597574ebde6afcc54c6498
+      internalID: 1301011604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 324
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e26149876f8f4bbcc1ce05d160cda
+      internalID: -362919748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_21
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 324
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0471811811dfd46bee4f6c16284713
+      internalID: 928210677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 321
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a056fcb72d7d6c4e806d108a30107d7
+      internalID: -1695276288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a9669094684a6438b92184eaddd78b
+      internalID: -57529995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 166
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503000484468d3444b6552c6e265ab91
+      internalID: 2100276703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86a0929934e704aa270ee802074472
+      internalID: 50854769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6d61a5568cc145a93b4dd7995b6a0
+      internalID: -63243062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 329
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0031db5a774e74d8ea80d1e4c6e4f9
+      internalID: 460290140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_28
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 328
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a134a0d7ae64d24dafb1a6891b5c773
+      internalID: 2116828154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 325
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12c2f47d56e0b4b911101af238b972
+      internalID: -130956470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Effect Bullet Impact Explosion 32x32_30
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 324
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0550ef808e43504398cf8c98800b753
+      internalID: 813770822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green Effect Bullet Impact Explosion 32x32_0: -946110929
+      Green Effect Bullet Impact Explosion 32x32_1: -321827912
+      Green Effect Bullet Impact Explosion 32x32_10: 1499028141
+      Green Effect Bullet Impact Explosion 32x32_11: -2068484558
+      Green Effect Bullet Impact Explosion 32x32_12: -1761258762
+      Green Effect Bullet Impact Explosion 32x32_13: 819839643
+      Green Effect Bullet Impact Explosion 32x32_14: -752733548
+      Green Effect Bullet Impact Explosion 32x32_15: 894116986
+      Green Effect Bullet Impact Explosion 32x32_16: -367541149
+      Green Effect Bullet Impact Explosion 32x32_17: -1598842005
+      Green Effect Bullet Impact Explosion 32x32_18: -1900493605
+      Green Effect Bullet Impact Explosion 32x32_19: 1301011604
+      Green Effect Bullet Impact Explosion 32x32_2: 845636054
+      Green Effect Bullet Impact Explosion 32x32_20: -362919748
+      Green Effect Bullet Impact Explosion 32x32_21: 928210677
+      Green Effect Bullet Impact Explosion 32x32_22: -1695276288
+      Green Effect Bullet Impact Explosion 32x32_23: -57529995
+      Green Effect Bullet Impact Explosion 32x32_24: 2100276703
+      Green Effect Bullet Impact Explosion 32x32_25: 50854769
+      Green Effect Bullet Impact Explosion 32x32_26: -63243062
+      Green Effect Bullet Impact Explosion 32x32_27: 460290140
+      Green Effect Bullet Impact Explosion 32x32_28: 2116828154
+      Green Effect Bullet Impact Explosion 32x32_29: -130956470
+      Green Effect Bullet Impact Explosion 32x32_3: 1249893107
+      Green Effect Bullet Impact Explosion 32x32_30: 813770822
+      Green Effect Bullet Impact Explosion 32x32_4: -625993005
+      Green Effect Bullet Impact Explosion 32x32_5: -1414230408
+      Green Effect Bullet Impact Explosion 32x32_6: -672775551
+      Green Effect Bullet Impact Explosion 32x32_7: 1235436250
+      Green Effect Bullet Impact Explosion 32x32_8: 485939517
+      Green Effect Bullet Impact Explosion 32x32_9: -1473600977
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
